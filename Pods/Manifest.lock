@@ -1,0 +1,25 @@
+PODS:
+  - HydraAsync (1.2.1)
+  - Katana (3.1.0):
+    - HydraAsync (~> 1.2)
+  - Tempura (4.3.0):
+    - Katana (< 4, >= 3.0)
+
+DEPENDENCIES:
+  - Katana (~> 3.0)
+  - Tempura (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - HydraAsync
+    - Katana
+    - Tempura
+
+SPEC CHECKSUMS:
+  HydraAsync: 8f2ab62d57e140b4ca587ae0f66e1eb04e8e6965
+  Katana: caa2adb661a386f9a993a15845841dc2c9b083aa
+  Tempura: d38c2d982864d9dbca6b11a519e8b00024d04abd
+
+PODFILE CHECKSUM: 254c38b8dfc0c1abbf08a09a594cc271018304ba
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_DiceRoller {
+  umbrella header "Pods-DiceRoller-umbrella.h"
+
+  export *
+  module * { export * }
+}
